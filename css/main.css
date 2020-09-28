@@ -25,6 +25,7 @@ img {
 
 header {
   background-image: url("../images/anchors.svg");
+  background-color: #222;
   color: #fff;
   font-size: 1.125rem;
   font-style: normal;
@@ -144,7 +145,7 @@ figcaption {
   text-align: center;
 }
 
-article footer {
+.footer {
   background-color: #259f95;
   background-image: none;
   border-radius: 6px 6px 0 0;
@@ -152,6 +153,7 @@ article footer {
 }
 
 footer {
+  background-color: #222;
   display: flex;
   justify-content: center;
   padding: 1rem;
